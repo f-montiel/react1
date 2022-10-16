@@ -6,8 +6,10 @@
 ## Como probar el proyecto
 
 1. Clonar el proyecto desde el repositorio [Git](https://github.com/f-montiel/react1)
-1. Ejecutar los comandos: 
+1. Ejecutar los comandos
+
 `$ npm install`
+
 `$ npm run dev`
 
 ## Autore
