@@ -1,14 +1,14 @@
 # Hello Wolrd!
 
-Este es el ejercicio número 1 del trabajo practico de React
+*Este es el ejercicio número 1 del trabajo practico de React
 <hr>
 
 ## Como probar el proyecto
 
 1. Clonar el proyecto desde el repositorio [Git](https://github.com/f-montiel/react1)
 1. Ejecutar los comandos: 
-$ npm install
-$ npm run dev
+`$ npm install`
+`$ npm run dev`
 
 ## Autore
 
