@@ -3,9 +3,12 @@
 Este es el ejercicio número 1 del trabajo practico de React
 <hr>
 
-## GitHub
+## Como probar el proyecto
 
-[Git](https://github.com/f-montiel/react1)
+1. Clonar el proyecto desde el repositorio [Git](https://github.com/f-montiel/react1)
+1. Ejecutar los comandos: 
+$ npm install
+$ npm run dev
 
 ## Autore
 
